@@ -6,7 +6,7 @@ readme revamp todo:
 - skills
 - other...
 
-![](https://komarev.com/ghpvc/?username=zaeyyd)
+![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS)
 
 [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
 
