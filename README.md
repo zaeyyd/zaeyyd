@@ -3,6 +3,7 @@
 readme revamp todo:
 - add website link
 - bio
+- skills
 - other...
 
 ![](https://komarev.com/ghpvc/?username=zaeyyd)
