@@ -5,19 +5,22 @@ readme revamp todo:
 - bio
 - skills
 - other...
-
 <details> 
   <summary>stuff</summary>
   
   <br/>
   
+  <p> I didn't know you can have toggles in readme's :0 
+  
+</details>
+
   ![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS)
 
   [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zayyed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaeyyd&hide_border=false"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaeyyd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-</details>
+
 
 
 
