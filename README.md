@@ -6,9 +6,20 @@ readme revamp todo:
 - skills
 - other...
 
-![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS)
+<details> 
+  <summary>stuff</summary>
+  
+  <br/>
+  
+  ![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS)
 
-[![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
+  [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zayyed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaeyyd&hide_border=false"/>
+  
+</details>
+
+
 
 
 <!--
