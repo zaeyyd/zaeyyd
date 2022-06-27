@@ -14,8 +14,7 @@ readme revamp todo:
   
 </details>
 
-  ![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS)
-  ^ i think most of these are just me looking at my own profile
+  ![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS) <- i think most of these are just me looking at my own profile lol
 
   [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
   
