@@ -16,7 +16,7 @@ readme revamp todo:
 
   ![](https://komarev.com/ghpvc/?username=zaeyyd&color=c842f5&style=for-the-badge&label=👀++PROFILE++VIEWS) <- i think most of these are just me looking at my own profile lol
 
-  [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaeyyd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
@@ -26,6 +26,9 @@ readme revamp todo:
 
 
 <!--
+
+  [![](https://github-readme-stats.vercel.app/api?username=zaeyyd)](https://github.com/anuraghazra/github-readme-stats)
+
 **zaeyyd/zaeyyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
